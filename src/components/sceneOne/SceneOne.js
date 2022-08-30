@@ -94,7 +94,7 @@ function Table({ ...props }) {
 	);
 }
 
-function TpOne({ dark }) {
+function SceneOne({ dark }) {
 	return (
 		<div
 		// className='scene-one'
@@ -115,4 +115,4 @@ function TpOne({ dark }) {
 	);
 }
 
-export default TpOne;
+export default SceneOne;
