@@ -298,7 +298,7 @@ function Classroom({ ...props }) {
 
 useGLTF.preload('Classroom.glb');
 
-function TpTwo({ dark }) {
+function SceneTwo() {
 	return (
 		<div
 		// className='scene-Two'
@@ -322,4 +322,4 @@ function TpTwo({ dark }) {
 	);
 }
 
-export default TpTwo;
+export default SceneTwo;
