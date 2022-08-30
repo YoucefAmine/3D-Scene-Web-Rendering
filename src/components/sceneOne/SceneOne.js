@@ -94,7 +94,7 @@ function Table({ ...props }) {
 	);
 }
 
-function SceneOne({ dark }) {
+function SceneOne() {
 	return (
 		<div
 		// className='scene-one'
